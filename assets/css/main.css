@@ -1,0 +1,22 @@
+/*Abstracts*/
+/*Vendors*/
+/*Base*/
+body {
+  background-color: black;
+}
+
+/*layout*/
+.contenedorCards_titulo {
+  font-size: 22px --xx-large;
+  color: #fff;
+}
+
+/*Components*/
+.contenedorCards__tarjeta {
+  background-color: #4d4d4d;
+}
+
+/*Pages*/
+/*Themes*/
+
+/*# sourceMappingURL=main.css.map */
